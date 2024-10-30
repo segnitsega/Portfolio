@@ -18,7 +18,7 @@ I am currently a 3rd year software engineering student at Adama Science and Tech
 ## Projects
 
 ### XORA-SAAS Landing Page
-- **Description**: A Frontend website built with React and Tailwind showcasing a my web-design skills.
+- **Description**: A Frontend website built with React and Tailwind showcasing my web-design skills.
 - **Live Demo**: https://xora-saas-segni.netlify.app/
 - **Source Code**: https://github.com/segnitsega/Xora-website.git
   
