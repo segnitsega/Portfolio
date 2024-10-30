@@ -38,7 +38,7 @@ Feel free to reach out to me if you have any questions or would like to collabor
 - **Email**: [segnitsega6@gmail.com](mailto:segnitsega6@gmail.com)
 - **LinkedIn**: [Segni Tsega's LinkedIn](https://www.linkedin.com/in/segni-tsega/)
 - **WhatsApp**: [+251983622604](https://wa.me/251983622604)
-- **Telegram**: [+251983622604](https://t.me/stb9503)
+- **Telegram**: [@stb9503](https://t.me/stb9503)
 
 
 Thank you for visiting my portfolio!
