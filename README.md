@@ -18,9 +18,15 @@ I am currently a 3rd year software engineering student at Adama Science and Tech
 ## Projects
 
 ### XORA-SAAS Landing Page
-- **Description**: A Frontend website built with React and Tailwind showcasing my web-design skills.
+- **Description**: A Frontend website built with React and Tailwind showcasing my web design and development skills.
 - **Live Demo**: https://xora-saas-segni.netlify.app/
 - **Source Code**: https://github.com/segnitsega/Xora-website.git
+
+## Weather App
+- **Description**: A Weather dashboard that displays current weather conditions such as temperature, humidity, and windspeed of a city.
+- **Live Demo**: https://segniweatherapp.netlify.app/
+- **Source Code**: https://github.com/segnitsega/alx_capstone.git
+
   
 ### Job Application System
 - **Description**: A web application built with React and Tailwind where employees can look for jobs and apply for suitable positions. Employers can post job listings to hire employees.
