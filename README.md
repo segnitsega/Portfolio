@@ -22,6 +22,11 @@ I am currently a 3rd year software engineering student at Adama Science and Tech
 - **Live Demo**: https://xora-saas-segni.netlify.app/
 - **Source Code**: https://github.com/segnitsega/Xora-website.git
 
+### Chatbot Application
+- **Description**: Developed a full-stack chatbot application using Node.js and integrated with the GROK API for seamless communication. The app features robust functionality, including real-time messaging and a dynamic user experience.
+- **Frontend Source Code**: https://github.com/segnitsega/chatbot-app.git
+- **Backend Source Code**:  https://github.com/segnitsega/chatbot-app-backend.git
+
 ## Weather App
 - **Description**: A Weather dashboard that displays current weather conditions such as temperature, humidity, and windspeed of a city.
 - **Live Demo**: https://segniweatherapp.netlify.app/
