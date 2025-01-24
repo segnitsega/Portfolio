@@ -9,11 +9,11 @@ I am currently a 3rd year software engineering student at Adama Science and Tech
 
 ## Skills
 
-- **Languages**: HTML5, CSS, Modern JavaScript, C++, Java, Python
-- **Frameworks/Libraries**: React, Next.js, Tailwind CSS
+- **Languages**: HTML5, CSS, JavaScript, Typescript, C++, Java, Python
+- **Frameworks/Libraries**: React, Next.js, Node.js, Tailwind CSS
 - **Tools**: Git, GitHub, Figma, Adobe XD, Canva
 - **UI/UX Design**: Knowledge and experience in UI/UX principles
-- **Other Skills**: Competitive programmer, problem solver, team work
+- **Other Skills**: Competitive programmer, problem solver, team worker
 
 ## Projects
 
