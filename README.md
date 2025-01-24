@@ -9,11 +9,11 @@ I am currently a 3rd year software engineering student at Adama Science and Tech
 
 ## Skills
 
-- **Languages**: HTML5, CSS, Modern JavaScript, C++, Java, Python
-- **Frameworks/Libraries**: React, Next.js, Tailwind CSS
+- **Languages**: HTML5, CSS, JavaScript, Typescript, C++, Java, Python
+- **Frameworks/Libraries**: React, Next.js, Node.js, Tailwind CSS
 - **Tools**: Git, GitHub, Figma, Adobe XD, Canva
 - **UI/UX Design**: Knowledge and experience in UI/UX principles
-- **Other Skills**: Competitive programmer, problem solver, team work
+- **Other Skills**: Competitive programmer, problem solver, team worker
 
 ## Projects
 
@@ -21,6 +21,11 @@ I am currently a 3rd year software engineering student at Adama Science and Tech
 - **Description**: A Frontend website built with React and Tailwind showcasing my web design and development skills.
 - **Live Demo**: https://xora-saas-segni.netlify.app/
 - **Source Code**: https://github.com/segnitsega/Xora-website.git
+
+### Chatbot Application
+- **Description**: Developed a full-stack chatbot application using Node.js and integrated with the GROK API for seamless communication. The app features robust functionality, including real-time messaging and a dynamic user experience.
+- **Frontend Source Code**: https://github.com/segnitsega/chatbot-app.git
+- **Backend Source Code**:  https://github.com/segnitsega/chatbot-app-backend.git
 
 ## Weather App
 - **Description**: A Weather dashboard that displays current weather conditions such as temperature, humidity, and windspeed of a city.
