@@ -4,6 +4,9 @@
 	margin: 0;
 	box-sizing: border-box;
 }
+/* body{
+	background-color: #d61919;
+} */
 html {
 	font-size: 10px;
 	font-family: 'Montserrat', sans-serif;
